@@ -1,5 +1,5 @@
 # python
 
-# PyQt
-# pip install PyQt
+PyQt
+pip install PyQt
 
