@@ -1,8 +1,8 @@
-# python
+#<p align='center'>Python</p>
 
 ### PyQt 
 - [LINK PyQt]('#')
--  - Urganish
+  - Urganish
 ```
 pip install PyQt
 ```
