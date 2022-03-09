@@ -1,6 +1,6 @@
 # python
 
-## PyQt
+###### PyQt
 ```
 pip install PyQt
 ```
