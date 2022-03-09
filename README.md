@@ -1,4 +1,4 @@
-<p align='center'><h1>Python</h1></p>
+<h1><p align='center'>Python</p></h1>
 
 ### PyQt 
 - [LINK PyQt]('#')
