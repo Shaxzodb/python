@@ -1,6 +1,6 @@
 # python
 
-###### PyQt
+### PyQt
 ```
 pip install PyQt
 ```
@@ -9,7 +9,7 @@ pip install PyQt
 pip install pytube
 ```
 
-#### Googletrans
+### Googletrans
 ```
 pip install googletrans
 ```
