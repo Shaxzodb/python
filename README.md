@@ -1,15 +1,15 @@
 # python
 
-PyQt ||
+###PyQt
 ```
 pip install PyQt
 ```
-Youtube || 
+###Youtube
 ```
 pip install pytube
 ```
 
-Googletrans || 
+###Googletrans
 ```
 pip install googletrans
 ```
