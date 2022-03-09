@@ -1,17 +1,20 @@
 # python
 
 ### PyQt 
-- [LINK]('#')
+- [LINK PyQt]('#')
+  - Urganish
 ```
 pip install PyQt
 ```
 ### Youtube
-- [LINK]('#')
+- [LINK Youtube]('#')
+  - Urganish
 ```
 pip install pytube
 ```
 ### Googletrans
-- [LINK]('#')
+- [LINK Googletrans]('#')
+  - Urganish 
 ```
 pip install googletrans
 ```
