@@ -2,7 +2,7 @@
 
 ### PyQt 
 - [LINK PyQt]('#')
-  - Urganish
+-  - Urganish
 ```
 pip install PyQt
 ```
